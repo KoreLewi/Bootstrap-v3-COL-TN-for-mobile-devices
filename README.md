@@ -16,3 +16,5 @@ MIT license, so use, modify and improve as you wish
 Enjoy
 
 TEST FROM REMOTE
+
+TEST FROM LOCAL
